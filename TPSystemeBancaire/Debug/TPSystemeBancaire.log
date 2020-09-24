@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (TPSystemeBancaire.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  tpBanqueKamelDmytro2.cpp
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(129): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(179): warning C4244: '=' : conversion de 'double' en 'unsigned int', perte possible de données
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(241): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(260): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(296): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(327): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(353): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(527): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(541): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(558): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(575): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(593): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(613): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(632): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(649): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(668): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(685): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\kelfilal\onedrive\algorithme et programmation structure isi\tp\tpsystemebancaire\tpsystemebancaire\tpbanquekameldmytro2.cpp(315): warning C4715: 'rechercherClient' : les chemins de contrôle ne retournent pas tous une valeur
+  TPSystemeBancaire.vcxproj -> C:\Users\kelfilal\OneDrive\Algorithme et programmation Structure ISI\TP\TPSystemeBancaire\Debug\tpBanqueKamelDmytro.exe
